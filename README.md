@@ -1,6 +1,9 @@
 # Total War: Warhammer III - Автопереводчик
 Программа переводит файлы формата **.tsv** от игры **Total War: Warhammer III** на русский язык, что поможет в быстром переводе крупных модов.
 Используйте [RPFM](https://github.com/Frodo45127/rpfm) для экспорта и импорта **.tsv** файлов
+
+## Скачать
+https://github.com/klimsat/wh3-tsv-deep-translator/releases/download/translator/WH3-Translator.exe
 <br>
 <br>
 ## Как использовать
